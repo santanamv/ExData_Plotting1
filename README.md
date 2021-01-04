@@ -5,7 +5,7 @@ I created a folder for each of the plots
   - Plot3
   - Plot4
 
-The folder named figures belonged to the master repository owned by rdpeng
+The folder named Figure belonged to the master repository owned by rdpeng
 
 ## Introduction
 
