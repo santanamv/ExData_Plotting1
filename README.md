@@ -1,11 +1,11 @@
+The folder named Figure belonged to the master repository owned by rdpeng
+
 Below are the instructions for the Week #1  project of the Exploratory Data Analysis Coursera course
 I created a folder for each of the plots
   - Plot1
   - Plot2
   - Plot3
   - Plot4
-
-The folder named Figure belonged to the master repository owned by rdpeng
 
 ## Introduction
 
